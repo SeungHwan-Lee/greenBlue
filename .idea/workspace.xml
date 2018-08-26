@@ -1,7 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c394147a-dee6-433f-9fea-48055d40ef92" name="Default Changelist" comment="" />
+    <list default="true" id="c394147a-dee6-433f-9fea-48055d40ef92" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/accepts/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/accepts/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/accepts/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/accepts/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/accepts/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/base64id/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/base64id/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/base64id/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/base64id/lib/base64id.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/base64id/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/cookie/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/cookie/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/cookie/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/cookie/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/cookie/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/engine.io/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/engine.io/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/engine.io/lib/engine.io.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/engine.io/lib/server.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/engine.io/lib/socket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/engine.io/lib/transport.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/engine.io/lib/transports/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/engine.io/lib/transports/polling-jsonp.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/engine.io/lib/transports/polling-xhr.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/engine.io/lib/transports/polling.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/engine.io/lib/transports/websocket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/engine.io/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/mime-db/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/mime-db/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/mime-db/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/mime-db/db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/mime-db/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/mime-db/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/mime-types/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/mime-types/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/mime-types/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/mime-types/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/mime-types/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/negotiator/HISTORY.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/negotiator/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/negotiator/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/negotiator/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/negotiator/lib/charset.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/negotiator/lib/encoding.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/negotiator/lib/language.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/negotiator/lib/mediaType.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/negotiator/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/socket.io-adapter/.npmignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/socket.io-adapter/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/socket.io-adapter/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/socket.io-adapter/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/socket.io-adapter/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/socket.io/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/socket.io/Readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/socket.io/lib/client.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/socket.io/lib/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/socket.io/lib/namespace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/socket.io/lib/parent-namespace.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/socket.io/lib/socket.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/node_modules/socket.io/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-client/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/greenBlue-client/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/greenBlue-server/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/greenBlue-server/package-lock.json" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -50,6 +114,18 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1181778379">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.5">
@@ -59,7 +135,7 @@
             <entry file="file://$PROJECT_DIR$/greenBlue-client/index.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="46">
-                  <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+                  <caret line="2" selection-start-line="2" selection-end-line="2" />
                 </state>
               </provider>
             </entry>
@@ -72,7 +148,7 @@
             <entry file="file://$PROJECT_DIR$/greenBlue-server/index.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="161">
-                  <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+                  <caret line="7" selection-start-line="7" selection-end-line="7" />
                 </state>
               </provider>
             </entry>
@@ -81,7 +157,7 @@
             <entry file="file://$PROJECT_DIR$/greenBlue-server/js/clientManager.js">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="575">
-                  <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+                  <caret line="25" selection-start-line="25" selection-end-line="25" />
                 </state>
               </provider>
             </entry>
@@ -101,6 +177,9 @@
     <findStrings>
       <find>getInfo</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -167,7 +246,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/greenBlue-server/index.js" />
+    <property name="last_opened_file_path" value="D:/workspace/workspace-WebStorm/playerd" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -212,11 +291,15 @@
       <workItem from="1534206281458" duration="1111000" />
       <workItem from="1534247549640" duration="1434000" />
       <workItem from="1534465294257" duration="83000" />
+      <workItem from="1534560173163" duration="37000" />
+      <workItem from="1534560274077" duration="17000" />
+      <workItem from="1534675809347" duration="75000" />
+      <workItem from="1535308152876" duration="46000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21800000" />
+    <option name="totallyTimeSpent" value="21975000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -228,7 +311,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.65363735" visible="true" weight="0.24973656" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -242,9 +325,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32899022" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50052685" side_tool="true" weight="0.26384366" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49947312" weight="0.26384366" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.49947312" visible="true" weight="0.26350605" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -311,24 +394,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/greenBlue-client/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/greenBlue-server/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/greenBlue-server/js/clientManager.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="575">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/greenBlue-client/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="46">
-          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
